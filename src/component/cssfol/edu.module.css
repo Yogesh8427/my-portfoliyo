@@ -1,0 +1,23 @@
+.edu{
+    max-width: 900px;
+    width: 80%;
+    margin:1% auto;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.856);
+    border-radius: 30px;
+}
+.det h2{
+    color: rgb(66, 216, 216);
+}
+.det h4{
+    color: rgb(66, 216, 216);
+    margin: 0.5% 0 0 0;
+}
+.det{
+    padding: 3%;
+}
+@media screen and (max-width:550px) {
+    .det{
+       padding: 10%;
+    }
+}

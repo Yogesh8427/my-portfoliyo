@@ -1,0 +1,43 @@
+.about{
+    max-width: 900px;
+    width: 80%;
+    margin:1% auto;
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.856);
+    border-radius: 30px;
+}
+.contant{
+margin: 3%;
+padding: 3%;
+font-size: larger;
+color: rgb(211, 198, 198);
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+} 
+span{
+    font-size: x-large;
+    color: rgb(66, 216, 216);
+}
+img{
+    width: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 2px solid rgb(116, 180, 189);
+    box-shadow: 1px 1px 60px rgb(173, 238, 238);
+}
+.img{
+    margin: 6% 4% 3% 0;
+}
+
+@media screen and (max-width:650px) {
+ .about{
+    flex-direction: column-reverse;
+ }
+ .img{
+    display: flex;
+    justify-content: center;
+}
+ }
+
+

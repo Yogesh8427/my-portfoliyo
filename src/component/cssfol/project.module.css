@@ -1,0 +1,24 @@
+.project{
+    max-width: 900px;
+    width: 80%;
+    margin:1% auto;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.856);
+    border-radius: 30px;
+}
+.con h2{
+    font-size: x-large;
+    color: rgb(66, 216, 216);
+}
+.con{
+    padding: 5%;
+}
+.con a{
+    text-decoration: none ;
+    color:rgb(66, 216, 216) ;
+}
+@media screen and (max-width:550px) {
+ .con{
+    padding: 10%;
+ }
+}
