@@ -21,7 +21,7 @@ function Project() {
             </ul>
             </div>
             <div className={style.con}>
-            <a href="https://89dd287f-caa6-44dd-be41-b1752b8a4555-00-n57oxgrv1n5t.riker.replit.dev/"><h3>2. To Do List -: https://to-do-list-by-local-storage.yogesh-kumark19.repl.co/</h3></a><br />
+            <a href="  "><h3>2. To Do List -: https://to-do-list-by-local-storage.yogesh-kumark19.repl.co/</h3></a><br />
             <p>The To-Do List is a versatile web-based application designed to help users efficiently organize their tasks and boost productivity. Built with a focus on simplicity and functionality, this application offers an intuitive user experience for creating, managing, and tracking tasks.</p><br />
             <h2>Key Features:</h2>
             <ul>
