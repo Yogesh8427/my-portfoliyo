@@ -5,7 +5,7 @@ function Project() {
         <div className={style.project} id='project'>
             <div className={style.con}>
             <h2>Projects</h2><br />
-            <a href=" https://news-app.yogesh-kumark19.repl.co/."><h3>1.News App -: https://news-app.yogesh-kumark19.repl.co/</h3></a><br />
+            <a href=" https://3ab1eec7-daa5-4198-add6-2e08c2073843-00-3n5cyk698ct0c.global.replit.dev/"><h3>1.News App -: https://news-app.yogesh-kumark19.repl.co/</h3></a><br />
             <p>The News App is a dynamic web-based application that delivers the latest news and updates from around the world to its users. Developed using React.js, this user-friendly platform offers an engaging news browsing experience with an aesthetically pleasing and responsive user interface designed using Bootstrap.</p><br />
             <h2>Key Features:</h2>
             <ul>
